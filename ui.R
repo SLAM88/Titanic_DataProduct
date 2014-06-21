@@ -5,7 +5,7 @@ library(shiny)
 shinyUI(fluidPage(
     
     # Application title
-    titlePanel("Old Faithful Geyser Data"),
+    titlePanel("Titanic Survival Rate"),
     
     # Sidebar with radio buttons for the user profile
     sidebarLayout(
